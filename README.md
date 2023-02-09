@@ -1,1 +1,3 @@
 # DSA
+# Patterns
+# Basic Programming
